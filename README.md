@@ -19,12 +19,12 @@ Selamat datang di repositori portofolio jaringan saya. Repositori ini berisi kum
 
 | No | Nama Proyek | Perangkat & Tools | Deskripsi Ringkas | Link Proyek |
 | :---: | :--- | :--- | :--- | :---: |
-| **01** | **Centralized Multi-Building Network Architecture** | MikroTik CHR, GNS3, VPCS | Arsitektur jaringan 4 gedung terpusat dengan alokasi DHCP Server, NAT Masquerade Gateway, Firewall Rules, dan Inter-Subnet Routing. |
+| **01** | **Centralized Multi-Building Network Architecture** | MikroTik CHR, GNS3, VPCS | Arsitektur jaringan 4 gedung terpusat dengan alokasi DHCP Server, NAT Masquerade Gateway, Firewall Rules, dan Inter-Subnet Routing. | [Lihat Detail](./01-multibuilding-mikrotik-gns3/) |
 
 
 ---
 
 ## 📬 Kontak & Profil
 
-- **LinkedIn:** Dimas Setia Adi(www.linkedin.com/in/dimas-setia-adi-604360319)
+- **LinkedIn:** Dimas Setia Adi (www.linkedin.com/in/dimas-setia-adi-604360319)
 - **Email:** dimassetiaadi30@gmail.com
