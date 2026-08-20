@@ -1,6 +1,6 @@
 # Multi-Building Network Architecture & Security Gateway
 
-![Topologi Jaringan](topology.png)
+![Topologi Jaringan](project-4-gedung.png)
 
 ## 📌 Ringkasan Proyek
 Simulasi arsitektur jaringan terpusat untuk 4 area gedung menggunakan **MikroTik CHR** pada simulator **GNS3**. Implementasi ini mencakup otomatisasi IP (*DHCP Server*), akses internet terpusat (*NAT Gateway*), serta kebijakan keamanan (*Firewall Filter Rules*) untuk isolasi antar-gedung.
