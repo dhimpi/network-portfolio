@@ -19,7 +19,7 @@ Selamat datang di repositori portofolio jaringan saya. Repositori ini berisi kum
 
 | No | Nama Proyek | Perangkat & Tools | Deskripsi Ringkas | Link Proyek |
 | :---: | :--- | :--- | :--- | :---: |
-| **01** | **Centralized Multi-Building Network Architecture** | MikroTik CHR, GNS3, VPCS | Arsitektur jaringan 4 gedung terpusat dengan alokasi DHCP Server, NAT Masquerade Gateway, Firewall Rules, dan Inter-Subnet Routing. | [Lihat Detail](./01-multibuilding-mikrotik-gns3/) |
+| **01** | **Centralized Multi-Building Network Architecture** | MikroTik CHR, GNS3, VPCS | Arsitektur jaringan 4 gedung terpusat dengan alokasi DHCP Server, NAT Masquerade Gateway, Firewall Rules, dan Inter-Subnet Routing. | [Lihat Detail 🔗](./01-multibuilding-mikrotik-gns3/) |
 
 
 ---
